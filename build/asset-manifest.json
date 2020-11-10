@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sandeepuiux/react.git/static/css/main.f65db87f.chunk.css",
+    "main.js": "/sandeepuiux/react.git/static/js/main.6b086457.chunk.js",
+    "main.js.map": "/sandeepuiux/react.git/static/js/main.6b086457.chunk.js.map",
+    "runtime-main.js": "/sandeepuiux/react.git/static/js/runtime-main.efcc203f.js",
+    "runtime-main.js.map": "/sandeepuiux/react.git/static/js/runtime-main.efcc203f.js.map",
+    "static/css/2.267ffeee.chunk.css": "/sandeepuiux/react.git/static/css/2.267ffeee.chunk.css",
+    "static/js/2.15971ce0.chunk.js": "/sandeepuiux/react.git/static/js/2.15971ce0.chunk.js",
+    "static/js/2.15971ce0.chunk.js.map": "/sandeepuiux/react.git/static/js/2.15971ce0.chunk.js.map",
+    "index.html": "/sandeepuiux/react.git/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/sandeepuiux/react.git/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.f65db87f.chunk.css.map": "/sandeepuiux/react.git/static/css/main.f65db87f.chunk.css.map",
+    "static/js/2.15971ce0.chunk.js.LICENSE.txt": "/sandeepuiux/react.git/static/js/2.15971ce0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efcc203f.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.15971ce0.chunk.js",
+    "static/css/main.f65db87f.chunk.css",
+    "static/js/main.6b086457.chunk.js"
+  ]
+}
