@@ -1,0 +1,59 @@
+{
+  "users_list": [
+    {
+      "name": "Sandeep Kumar",
+      "username": "sandeepkrsaxena",
+      "email": "sandeep.k9953@gmail.com",
+      "phone": "9953186637",
+      "street": "Gali No.",
+      "suite": "Sai Enclave",
+      "city": "Uttam Nagar",
+      "zipcode": "110059",
+      "id": 9
+    },
+    {
+      "name": "Mr. Hemnarayan Panday",
+      "username": "hnpandey0202",
+      "email": "hnpandey2002@gmail.com",
+      "phone": "9953186637",
+      "street": "New Delhi",
+      "suite": "G-3",
+      "city": "Uttam Nagar",
+      "zipcode": "110059",
+      "id": 10
+    },
+    {
+      "name": "praveen mishra",
+      "username": "praveen.mihra",
+      "email": "sandeep.k9953@gmail.com",
+      "phone": "9953186637",
+      "street": "New Delhi",
+      "suite": "sdfs",
+      "city": "Uttam Nagar",
+      "zipcode": "110059",
+      "id": 11
+    },
+    {
+      "name": "boniface papera",
+      "username": "boniface",
+      "email": "boniface.parera@gmil.com",
+      "phone": "8800334509",
+      "street": "Mumbai",
+      "suite": "Mumbai",
+      "city": "Mumbai",
+      "zipcode": "",
+      "id": 12
+    },
+    {
+      "name": "sandeep.k9953@gmail.com",
+      "username": "sandeepkrsaxena",
+      "email": "sandeep.k9953@gmail.com",
+      "phone": "9953186637",
+      "street": "New Delhi",
+      "suite": "",
+      "city": "Uttam Nagar",
+      "zipcode": "110059",
+      "id": 13
+    }
+  ]
+}
